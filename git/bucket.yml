@@ -1,0 +1,5 @@
+flows:
+  aea16edb-e210-4837-8f60-1c9c8e7e17ca: {ver: 1, file: puthdfs.snapshot, comments: '',
+    author: anonymous, created: 1590745041506, flowName: puthdfs, flowDesc: ''}
+layoutVer: 1
+bucketId: e3fcda41-1b6c-4e52-9029-ef3533c89b26
